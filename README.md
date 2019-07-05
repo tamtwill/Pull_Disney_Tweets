@@ -6,4 +6,4 @@ The tweets are scraped via a cron job every 15 minutes.  At night, a second cron
 My goal is to look at several things
 1) sentiment analysis, especially around the new area/attractions
 2) general text analytics on the tweets
-3) I am also grabbing tweet photos with the idea of using them as test data for a future image classification project
+3) I am also grabbing tweet photos with the idea of using them as test data for a future image classification project.  Possibly training to recognize Mouse Ears, or the millenuim Falcon since the new "Land" has opened at DLR and will come online at WDW in August.
