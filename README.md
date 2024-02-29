@@ -1,5 +1,5 @@
 # Disney_Tweets
-I wanted to collect some real-world data to use in personal programming projects.  Because I like Disney, and the new Star Wars areas will be opening at the US parks this summer, I decided to scrape tweets from Disney Parks as my data source.  It will be a while before the corpus is big enough to do much with, but in the meantime, data collection goes on.
+I wanted to collect some real-world data to use in personal programming projects.  Because I like Disney, and the new Star Wars areas was opening at the US parks the summer I began this project, I decided to scrape tweets from Disney Parks as my data source.  The data were collected at a point in time before Elon Musk bought Twitter, and the data access policies changed.
 
 The tweets are scraped via a cron job every 15 minutes.  At night, a second cron job opens the saved files, aggregates and de-dups the tweets.  The clean tweet collect is then written out for later analysis.
 
